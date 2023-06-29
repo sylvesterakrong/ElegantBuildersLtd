@@ -1,0 +1,20 @@
+{
+  "name": "elegantbuildersltd",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbo",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "framer-motion": "^10.12.17",
+    "react-icons": "^4.10.1",
+    "react-refresh": "^0.14.0",
+    "react-simple-typewriter": "^5.0.1"
+  }
+}
