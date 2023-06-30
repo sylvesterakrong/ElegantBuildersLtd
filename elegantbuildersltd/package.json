@@ -13,6 +13,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "framer-motion": "^10.12.17",
+    "next": "^13.4.7",
     "react-icons": "^4.10.1",
     "react-refresh": "^0.14.0",
     "react-simple-typewriter": "^5.0.1"
