@@ -1,8 +1,8 @@
 import Footer from './components/Footer'
 import './globals.css'
-import { Montserrat } from 'next/font/google'
+import { Inter } from 'next/font/google'
 
-const inter = Montserrat({ subsets: ['latin'] })
+const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Elegant Builders Limited',
@@ -14,8 +14,8 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <main className={inter.className}>
         {children}
-      </main>
-      <Footer/>
+      
+      <Footer/></main>
     </html>
   )
 }
